@@ -1,2 +1,5 @@
-deepspeech-gpu==0.8.2
-deepspeech-server==2.1.0
+deepspeech-server>=3.0.1
+numpy<2
+cyclotron~=1.2
+cyclotron-aiohttp~=1.0
+cyclotron-std~=1.0
